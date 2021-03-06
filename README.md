@@ -4,11 +4,13 @@ Music Player
  
 Snapshot 1:
 
-![Screenshot (533)](https://user-images.githubusercontent.com/62588358/109386361-434d8400-7920-11eb-9b40-9df0a865abe4.png)
+![Screenshot (622)](https://user-images.githubusercontent.com/62588358/110199655-6972a700-7e7f-11eb-8798-f8ef70b510ad.png)
+
 
 Snapshot 2:
 
-![Screenshot (534)](https://user-images.githubusercontent.com/62588358/109386398-637d4300-7920-11eb-8ad9-444142e561e2.png)
+![Screenshot (623)](https://user-images.githubusercontent.com/62588358/110199639-53fd7d00-7e7f-11eb-917e-1450e56725b4.png)
+
 
 Snapshot 3:
 
